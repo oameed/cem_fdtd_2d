@@ -1,0 +1,10 @@
+{
+
+"problem_type": "cavity"   ,
+"name"        : "rectangle",
+"ratio"       : 0.5        ,
+"pulse"       : "gaussian" ,
+"freq"        : 2e9        ,
+"bw (pct)"    : null      
+
+}

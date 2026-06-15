@@ -1,0 +1,12 @@
+{
+
+"problem_type": "propagation" ,
+"name"        : "rectanglePEC",
+"ratio"       : null          ,
+"pulse"       : "gaussian"    ,
+"freq"        : 2e9           ,
+"bw (pct)"    : null          ,
+"side (m)"    : 1e-1          ,
+"sigma"       : 1e9            
+
+}

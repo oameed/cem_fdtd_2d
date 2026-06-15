@@ -1,0 +1,7 @@
+{
+"problem_type": "cavity"  ,
+"pulse"       : "gaussian",
+"freq"        : 2e9       ,
+"bw (pct)"    : null
+
+}

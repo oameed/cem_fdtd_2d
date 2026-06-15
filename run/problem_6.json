@@ -1,0 +1,12 @@
+{
+
+"problem_type": "propagation",
+"name"        : "circleDE"   ,
+"ratio"       : null         ,
+"pulse"       : "gaussian"   ,
+"freq"        : 2e9          ,
+"bw (pct)"    : null         ,
+"radius (m)"  : 7e-2         ,
+"epsr"        : 5            
+
+}

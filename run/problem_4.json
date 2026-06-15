@@ -1,0 +1,12 @@
+{
+
+"problem_type": "propagation",
+"name"        : "rectangleDE",
+"ratio"       : null         ,
+"pulse"       : "gaussian"   ,
+"freq"        : 2e9          ,
+"bw (pct)"    : null         ,
+"side (m)"    : 1e-1         ,
+"epsr"        : 5            
+
+}

@@ -1,0 +1,8 @@
+{
+
+"problem_type": "propagation",
+"pulse"       : "cmg"        ,
+"freq"        : 12e9         ,
+"bw (pct)"    : 50
+
+}
