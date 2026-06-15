@@ -44,22 +44,22 @@ This project demonstrates application of the Finite Difference Time Domain (FDTD
 [fig_3_1]:experiments/04/data.gif
 [fig_3_2]:experiments/06/data.gif
 
-## Problems 7 & 8: TF/SF Excitation
+## Problems 7 & 9: TF/SF Excitation
 
 |     |     |
 |:---:|:---:|
 | ![][fig_4_1] | ![][fig_4_2] |
 
 [fig_4_1]:experiments/07/data.gif
-[fig_4_2]:experiments/08/data.gif
+[fig_4_2]:experiments/09/data.gif
 
-## Problems 9 & 10: TF/SF Excitation
+## Problems 8 & 10: TF/SF Excitation
 
 |     |     |
 |:---:|:---:|
 | ![][fig_5_1] | ![][fig_5_2] |
 
-[fig_5_1]:experiments/09/data.gif
+[fig_5_1]:experiments/08/data.gif
 [fig_5_2]:experiments/10/data.gif
 
 ## Problems 12 & 13
